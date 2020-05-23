@@ -15,5 +15,6 @@ while cap.isOpened():
 			break
 	else:
 		break
+# hello there this is just a comment for you people to understand thanks 
 cap.release()
 cv2.destroyAllWindows()
